@@ -49,7 +49,8 @@ vi)Sequence Diagram
 
 # Sequence Diagram:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/36fbc55a-6961-4a27-b862-f0194fa45626)
+
 
 
 
